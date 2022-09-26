@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Remakker\Desktop\turistando-recodepro\Crud_Turistando\.metadata\.plugins\org.eclipse.jdt.core
+759852250.index
+1387603234.index
+2513621982.index
